@@ -1,5 +1,5 @@
 <!-- <p align='center'>
-<img align='center' src='./assets/images/banner.gif' alt='My name is Christian Coriasco.' />
+<img align='center' src='./assets/images/helloworld_finished.png' alt='My name is Matias Romero.' />
 </p> -->
 Hi, my Name is Matias Romero but friends call me Bati 👋😏
 
@@ -19,7 +19,7 @@ My hobbies are:
 <a href="https://www.linkedin.com/in/batiromero-dev/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="batiromero" height="30" width="auto" />Linkedin profile</a>
 </p>
 <p align="left">
-<a href="mailto:c_coriasco@hotmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="c_coriasco@hotmail.com.com" height="30" width="auto" />📧 c_coriasco@hotmail.com</a>
+<a href="mailto:mattmromero@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="mattmromero@gmail.com" height="30" width="auto" />📧 mattmromero@gmail.com</a>
 </p>
 
 <h3 align="center">Technologies I've learned && I'm learning:</h3>
@@ -53,9 +53,9 @@ My hobbies are:
 <a href="https://heroku.com" target="_blank">Heroku <img src="./assets/images/heroku.png" alt="heroku" width="auto" height="40"/></a>
 <a href="https://unity.com/" target="_blank"> <img src="./assets/images/unity.png" alt="unity" width="auto" height="40"/></a>
 <a href="https://postman.com" target="_blank">Postman <img src="./assets/images/postnman.png" alt="postman" width="auto" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank">Linux <img src="./assets/images/linux.png" alt="linux" width="auto" height="40"/></a> 
+
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krosty47&show_icons=true&theme=dark&locale=en" alt="krosty47" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batiromero&show_icons=true&theme=dark&locale=en" alt="batiromero" /></p>
 
-<p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=krosty47&theme=dark" alt="krosty47" /></p>
+
