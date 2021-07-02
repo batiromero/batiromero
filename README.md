@@ -1,6 +1,6 @@
-<!-- <p align='center'>
+<p align='center'>
 <img align='center' src='./assets/images/helloworld_finished.png' alt='My name is Matias Romero.' />
-</p> -->
+</p> 
 Hi, my Name is Matias Romero but friends call me Bati 👋😏
 
 I’m currently working on the final project of Henry's bootcamp (+650 hours) 🙌
