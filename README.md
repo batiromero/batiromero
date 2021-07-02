@@ -16,10 +16,10 @@ My hobbies are:
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/batiromero-dev/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="batiromero" height="30" width="auto" />Linkedin profile</a>
+<a href="https://www.linkedin.com/in/batiromero-dev/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="batiromero" height="20" width="auto" /> - Linkedin profile</a>
 </p>
 <p align="left">
-<a href="mailto:mattmromero@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="mattmromero@gmail.com" height="30" width="auto" />📧 mattmromero@gmail.com</a>
+<a href="mailto:mattmromero@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="mattmromero@gmail.com" height="20" width="auto" /> - mattmromero@gmail.com</a>
 </p>
 
 <h3 align="center">Technologies I've learned && I'm learning:</h3>
