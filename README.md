@@ -25,7 +25,7 @@ My hobbies are:
 <a href="https://batiromero.netlify.app/" target="_blank"> Website & Portfolio</a>
 </p>
 
-<h3 align="center">Technologies I've learned && I'm learning:</h3>
+<h3 align="center">Technologies I've learned & I'm learning:</h3>
 <p align='center'>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> Javascript</a>
 <a href="https://www.w3.org/html/" target="_blank">HTML5 </a>
